@@ -1,0 +1,17 @@
+.button {
+    position: relative;
+    border-radius: 6px;
+    width: 150px;
+    height: 40px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    border: 1px solid #1bcc00;
+    background-color: #029731;
+    overflow: hidden;
+  }
+
+  .button:hover {
+    background: #cc0000;
+  }
+
